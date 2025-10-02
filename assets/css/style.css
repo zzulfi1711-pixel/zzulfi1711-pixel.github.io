@@ -178,7 +178,7 @@ nav ul li a:hover::after {
     width: 280px;
     height: 280px;
     border-radius: 50%;
-    object-fit: cover;
+    object-fit: scale-down;
     border: 7px solid var(--white-color);
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
 }
