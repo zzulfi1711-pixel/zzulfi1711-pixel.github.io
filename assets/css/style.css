@@ -228,6 +228,7 @@ nav ul li a:hover::after {
     flex-grow: 1;
     display: flex;
     flex-direction: column;
+    justify-content: space-between;
 }
 
 .project-card-content h3 {
