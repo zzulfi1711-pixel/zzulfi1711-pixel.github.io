@@ -227,7 +227,7 @@ nav ul li a:hover::after {
     padding: 30px;
     flex-grow: 1;
     display: flex;
-    justify-comtent: space-between;
+    justify-content: space-between;
     flex-direction: column;
 }
 
