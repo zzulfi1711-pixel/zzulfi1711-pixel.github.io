@@ -218,7 +218,7 @@ nav ul li a:hover::after {
 .project-card img {
     width: 100%;
     height: 220px;
-    object-fit: cover;
+    object-fit: scale-down;
 }
 
 .project-card-content {
@@ -442,7 +442,7 @@ footer p {
     }
 
     .projects-grid {
-        grid-template-columns: repeat(2, 1fr);
+        grid-template-columns: repeat(1, 1fr);
     }
 
     .skills-table {
