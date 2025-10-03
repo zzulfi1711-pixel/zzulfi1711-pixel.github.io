@@ -111,6 +111,7 @@ nav ul {
     justify-content: center;
     list-style: none;
     padding: 10px 0;
+    flex-wrap: wrap;
 }
 
 nav ul li a {
