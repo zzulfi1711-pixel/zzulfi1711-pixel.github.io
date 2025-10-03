@@ -310,6 +310,8 @@ nav ul li a:hover::after {
     display: flex;
     align-items: center;
     margin-bottom: 25px;
+    height: 98px;
+    width: 273px;
 }
 
 .skill-header i {
