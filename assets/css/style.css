@@ -227,8 +227,8 @@ nav ul li a:hover::after {
     padding: 30px;
     flex-grow: 1;
     display: flex;
+    justify-comtent: space-between;
     flex-direction: column;
-    justify-content: space-between;
 }
 
 .project-card-content h3 {
